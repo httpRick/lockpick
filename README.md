@@ -5,7 +5,7 @@ Lockpicking mechanics like from other games
 Authors
 ========================================================================
 
-- Rick <Main Developer>
+- Rick <Scripter>
 - Payro <3D Graphic/Modeller>
 
 The content of the repository
