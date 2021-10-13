@@ -1,0 +1,12 @@
+<meta>
+	<info author="Rick" type="script" description="Lockpick Mechanic in MTA" version="1.0.0"/>
+
+	<script src="client/main.lua" type="client"/>
+	<file src="res/models/lock.col" type="client"/>
+	<file src="res/models/lock.dff" type="client"/>
+	<file src="res/models/lockpick.col" type="client"/>
+	<file src="res/models/lockpick.dff" type="client"/>
+	<file src="res/models/screwdriver.col" type="client"/>
+	<file src="res/models/screwdriver.dff" type="client"/>
+	<file src="res/models/textures.txd" type="client"/>
+</meta>
