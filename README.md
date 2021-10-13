@@ -41,12 +41,9 @@ This event is triggered when the player starts the lockpicking mechanic
 ```
 onClientPlayerStoplockpicking
 This event triggers when the player stop the mechanic
-parameters
-``
-boolean success
-``
-success means whether the player has opened the lock
+parameters: boolean success
 
+success - means whether the player has opened the lock
 ```
 
 =========================================================================
