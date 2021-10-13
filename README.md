@@ -47,6 +47,3 @@ parameters: boolean success
 
 success - means whether the player has opened the lock
 ```
-
-=========================================================================
-
