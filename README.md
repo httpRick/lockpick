@@ -1,11 +1,9 @@
-# lockpick
-
-MTA Lockpicking Mechanic
+# MTA Lockpicking Mechanic
 ===========
 
 Lockpicking mechanics like from other games
 
-Autorzy
+Authors
 ========================================================================
 
 - Rick <Main Developer>
@@ -31,7 +29,6 @@ CONTROL
 D KEY - ROTATES LOCK CLICK OF STEPS
 Use the mouse to move the pick lock
 ```
-========================================================================
 
 Events
 =========================================================================
