@@ -1,5 +1,4 @@
 # MTA Lockpicking Mechanic
-===========
 
 Lockpicking mechanics like from other games
 
