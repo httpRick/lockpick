@@ -10,8 +10,7 @@ Authors
 
 The content of the repository
 ========================================================================
-
-W repozytorium znajduje się:
+  
 * Client side LUA code
 * Original models
 
